@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cartCheckout/cartCheckout.iml" filepath="$PROJECT_DIR$/cartCheckout/cartCheckout.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/showcase-cart-service-java.iml" filepath="$PROJECT_DIR$/.idea/showcase-cart-service-java.iml" />
     </modules>
   </component>

@@ -24,5 +24,4 @@ Components of Framework:
 4. Data sourcing Logic-test data
 5. testcases
 6. Assertion/Verification Methods
-7. Logging- log 4j
-8. Reporting-extent reports
+7. Reporting-extent reports
